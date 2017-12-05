@@ -1,0 +1,5 @@
+E:\School Stuff\Homework\CS 5700\hw2\RaceMonitor_CSharp\RaceData\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\hw2\RaceMonitor_CSharp\RaceData\bin\Debug\RaceData.pdb
+E:\School Stuff\Homework\CS 5700\hw2\RaceMonitor_CSharp\RaceData\obj\Debug\RaceData.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\hw2\RaceMonitor_CSharp\RaceData\obj\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\hw2\RaceMonitor_CSharp\RaceData\obj\Debug\RaceData.pdb

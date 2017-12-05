@@ -1,0 +1,18 @@
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.dll
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\RaceData.dll
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\AppLayer\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,61 @@
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe.config
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.pdb
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.Properties.Resources.resources
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csproj.GenerateResource.Cache
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\HW1\cs5700f17-shared\cs5700f17-shared\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.pdb
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csprojResolveAssemblyReference.cache
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.Properties.Resources.resources
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csproj.GenerateResource.Cache
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.exe
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.pdb
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe.config
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.pdb
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.dll
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\RaceData.dll
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.pdb
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.ControlForm.resources
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.StartUp.resources
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.CreateObserver.resources
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.EmailForm.resources
+C:\Users\itcl\Desktop\hw2\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.ListDisplay.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.ControlForm.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.CreateObserver.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.EmailForm.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.ListDisplay.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.Properties.Resources.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.StartUp.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.SubjectManager.resources
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csproj.GenerateResource.Cache
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe.config
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.pdb
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe.config
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.pdb
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\MyRaceMonitor.pdb
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\bin\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.ControlForm.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.CreateObserver.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.EmailForm.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.ListDisplay.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.Properties.Resources.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.StartUp.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.SubjectManager.resources
+E:\School Stuff\Homework\CS 5700\Race Monitor\MyRaceMonitor_CSharp\MyRaceMonitor\obj\Debug\MyRaceMonitor.csproj.GenerateResource.Cache

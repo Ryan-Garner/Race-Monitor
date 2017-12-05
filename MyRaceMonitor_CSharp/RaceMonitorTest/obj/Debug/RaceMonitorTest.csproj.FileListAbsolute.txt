@@ -1,0 +1,11 @@
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\RaceMonitorTest.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\RaceMonitorTest.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\AppLayer.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\MyRaceMonitor.exe
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\RaceData.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\AppLayer.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\bin\Debug\MyRaceMonitor.pdb
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\obj\Debug\RaceMonitorTest.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\obj\Debug\RaceMonitorTest.dll
+E:\School Stuff\Homework\CS 5700\hw2\MyRaceMonitor_CSharp\RaceMonitorTest\obj\Debug\RaceMonitorTest.pdb
